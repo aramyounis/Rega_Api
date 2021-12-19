@@ -35,8 +35,7 @@
 
 | Parameter  | Type     |
 | :--------- | :------- |
-| `email`    | `string` |
-| `password` | `string` |
+| `token`    | `string` |
 
 ### Socket Events
 
